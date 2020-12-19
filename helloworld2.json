@@ -223,6 +223,15 @@
                          "type":"bool",
                          "value":true
                         }]
+                }, 
+                {
+                 "id":4,
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32
         }],
