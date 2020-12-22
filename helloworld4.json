@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"helloworld3.json#start"
+                 "value":"helloworld4.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -364,7 +364,7 @@
          "name":"sign text",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -376,7 +376,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
