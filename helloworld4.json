@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.flickr.com\/photos\/maltman23\/50727520336\/in\/album-72157715852297553\/"
+                 "value":"https:\/\/httc.miraheze.org\/wiki\/File:Kittens01.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.flickr.com\/photos\/maltman23\/50642913012\/in\/album-72157715852297553\/"
+                 "value":"https:\/\/httc.miraheze.org\/wiki\/File:Kittens02.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.flickr.com\/photos\/maltman23\/50585180477\/in\/album-72157715852297553\/"
+                 "value":"https:\/\/httc.miraheze.org\/wiki\/File:Kittens03.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.flickr.com\/photos\/maltman23\/50584318318\/in\/album-72157715852297553\/"
+                 "value":"https:\/\/httc.miraheze.org\/wiki\/File:Kittens04.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,7 +163,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.flickr.com\/photos\/maltman23\/50493689033\/in\/album-72157715852297553\/"
+                 "value":"https:\/\/httc.miraheze.org\/wiki\/File:Kittens05.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,7 +181,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.flickr.com\/photos\/maltman23\/50493686058\/in\/album-72157715852297553\/"
+                 "value":"https:\/\/httc.miraheze.org\/wiki\/File:Kittens06.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -199,7 +199,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.flickr.com\/photos\/maltman23\/50494546102\/in\/album-72157715852297553\/"
+                 "value":"https:\/\/httc.miraheze.org\/wiki\/File:Kittens07.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -217,7 +217,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.flickr.com\/photos\/maltman23\/50309015697\/in\/album-72157715852297553\/"
+                 "value":"https:\/\/httc.miraheze.org\/wiki\/File:Kittens08.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -235,7 +235,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.flickr.com\/photos\/maltman23\/50726767613\/in\/album-72157715852297553\/"
+                 "value":"https:\/\/httc.miraheze.org\/wiki\/File:Kittens10.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -253,7 +253,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.flickr.com\/photos\/maltman23\/50494546117\/in\/album-72157715852297553\/"
+                 "value":"https:\/\/httc.miraheze.org\/wiki\/File:Kittens09.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -268,7 +268,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
