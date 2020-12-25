@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cornfieldelectronics.com\/cfe\/hha\/HHA_Master_Sched.html"
+                 "value":"https:\/\/rc3-hha.scw-lab.loop23.io\/hha\/HHA_Master_Sched.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cornfieldelectronics.com\/cfe\/projects.php#ardutouch"
+                 "value":"https:\/\/rc3-hha.scw-lab.loop23.io\/hha\/ArduTouch.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,7 +181,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cornfieldelectronics.com\/cfe\/hha\/ArduinoForTotalNewbies.html"
+                 "value":"https:\/\/rc3-hha.scw-lab.loop23.io\/hha\/ArduinoForTotalNewbies.html"
                 }],
          "type":"tilelayer",
          "visible":true,
