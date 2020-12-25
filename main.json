@@ -181,7 +181,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/cornfieldelectronics.com\/cfe\/hha\/ArduinoForTotalNewbies.html"
+                 "value":"https:\/\/cornfieldelectronics.com\/cfe\/hha\/ArduinoForTotalNewbies.html"
                 }],
          "type":"tilelayer",
          "visible":true,
