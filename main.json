@@ -397,7 +397,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/rc3-hha.scw-lab.loop23.io\/hha\/WebInterfacesWithMicroPython.html"
+                 "value":"https:\/\/rc3-hha.scw-lab.loop23.io\/hha\/WebInterfacesForMicroPython.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -505,7 +505,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/rc3-hha.scw-lab.loop23.io\/hha\/WebInterfacesWithMicroPython.html"
+                 "value":"https:\/\/rc3-hha.scw-lab.loop23.io\/hha\/WebInterfacesForMicroPython.html"
                 }],
          "type":"tilelayer",
          "visible":true,
