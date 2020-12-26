@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"helloworld4.json#start"
+                 "value":"main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
