@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/hardware-making.json#start_hardware-hacking-area}"
+                 "value":"{<lobby>\/maps\/hardware-making.json#start_openbikesensor}"
                 }],
          "type":"tilelayer",
          "visible":true,
